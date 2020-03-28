@@ -58,3 +58,8 @@ In my.cnf:
 - see sql that migration will run: python manage.py sqlmigrate gameplay 0001
 - run migration: python manage.py migrate
 ```
+
+#### Admin site
+```
+- create super user: python manage.py createsuperuser
+```
